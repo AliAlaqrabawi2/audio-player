@@ -1,0 +1,10 @@
+:root {
+  --primary-color: #f54e65;
+  /* Replace #ff0000 with your desired primary color */
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
